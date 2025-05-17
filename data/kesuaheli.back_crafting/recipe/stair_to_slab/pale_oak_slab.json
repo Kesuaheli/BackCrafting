@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "custom_slaps_to_blocks",
+	"ingredients": [
+		"minecraft:pale_oak_stairs"
+	],
+	"result": {
+		"id": "minecraft:pale_oak_slab",
+		"count": 1
+	}
+}
