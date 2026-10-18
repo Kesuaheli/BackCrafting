@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "custom_slabs_to_blocks",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:cinnabar_brick_slab"
+	},
+	"result": {
+		"count": 1,
+		"id": "minecraft:cinnabar_bricks"
+	}
+}
