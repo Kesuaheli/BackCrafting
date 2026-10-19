@@ -1,8 +1,8 @@
 {
 	"type": "minecraft:stonecutting",
-	"ingredient": "minecraft:tuff_slab",
+	"ingredient": "minecraft:tuff_stairs",
 	"result": {
-		"id": "minecraft:tuff",
+		"id": "minecraft:tuff_slab",
 		"count": 1
 	}
 }
